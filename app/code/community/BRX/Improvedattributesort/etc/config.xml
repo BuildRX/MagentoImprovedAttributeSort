@@ -1,0 +1,15 @@
+<config>
+    <frontend>
+        <events>
+            <catalog_product_collection_load_before>
+                <observers>
+                    <brx_improvedattributesort>
+                        <type>model</type>
+                        <class>BRX_Improvedattributesort_Model_Observer</class>
+                        <method>catalogProductCollectionLoadBefore</method>
+                    </brx_improvedattributesort>
+                </observers>
+            </catalog_product_collection_load_before>
+        </events>
+    </frontend>
+</config>

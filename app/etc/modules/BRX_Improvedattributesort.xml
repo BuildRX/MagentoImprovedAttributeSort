@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <BRX_Improvedattributesort>
+            <active>true</active>
+            <codePool>community</codePool>
+        </BRX_Improvedattributesort>
+    </modules>
+</config>
