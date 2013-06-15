@@ -10,7 +10,7 @@
  * Improvedattributesort
  * 
  * @category    BRX
- * @package     BRX_Stockfilter
+ * @package     BRX_Improvedattributesort
  * @copyright   Copyright (c) 2013 BuildRX (http://www.buildrx.com)
  */
 
